@@ -1,5 +1,4 @@
-<img src="./webjeet.png">
-
+![Image](./WEBJEET.png)
 
 # Support Me Here 😉
 
