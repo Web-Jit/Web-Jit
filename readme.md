@@ -1,4 +1,4 @@
-<p align="center" style="color:#19ECFA; font-size:25px;">Hello World</p>
+<p align="center" style="color:#19ECFA; font-size:45px;">Hello World</p>
 <p align="center">
 <img  align="center" src="https://media.tenor.com/lUFliafCu_MAAAAC/hello.gif" width="140px" muted>
 </p>
