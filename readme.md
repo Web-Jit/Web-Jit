@@ -7,10 +7,7 @@
 ### I build web design and UI clone.
 
 # 🛠 Skill
-<img src="https://img.shields.io/badge/HTML-MASTER-blue?style=for-the-badge&logo=html">
-<img src="https://img.shields.io/badge/CSS-MASTER-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/JS-LEARNING-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/NEXT.JS-Learning-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML-MASTER-blue?style=for-the-badge&logo=html"> <img src="https://img.shields.io/badge/CSS-MASTER-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-LEARNING-blue?style=for-the-badge">  <img src="https://img.shields.io/badge/NEXT.JS-Learning-blue?style=for-the-badge">
 
 # 🔗Links 
 [<img src="https://img.icons8.com/fluency/30/null/internet.png"/>](https://webjeet.me/)
